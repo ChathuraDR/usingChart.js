@@ -2,9 +2,9 @@
 Adding content in a DB(MySql) to a Html file using JSON method
 
 
-You can download chart.js[url](http://www.chartjs.org/) or refer the Documentation[url](http://www.chartjs.org/docs/#getting-started) for further Details.
+You can download chart.js [url](http://www.chartjs.org/) or refer the Documentation [url](http://www.chartjs.org/docs/#getting-started) for further Details.
 
-####Instructions to set up locally
+####Instructions to set up locally####
 
 **For windows users
 

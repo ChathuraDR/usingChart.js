@@ -9,5 +9,13 @@ You can download chart.js [url](http://www.chartjs.org/) or refer the Documentat
 **For windows users**
 
 1.Download all the files in the repository and put them in a folder which is created inside www directory inside WAMP directory.(If you're using XAMPP path you have to put them in 'htdocs' directory inside XAMPP directory.)
+
   -For you easiness i added mysql database table file '' here.you can import it into your database :).
+
 2.Type this [url](http://localhost/using_chart.js/usingChartJS.html) in your browser and hit enter.
+
+
+**For Linux/mac users**
+
+1. This is the path for localhost '/etc/apache2'.
+

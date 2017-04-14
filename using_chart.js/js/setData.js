@@ -28,7 +28,7 @@ $(document).ready(function () {
             var ctx = $("#myChart");
 
             var bargraph = new Chart(ctx,{
-                type: 'bar',
+                type: 'bar',                                //put 'pie' instead 'bar' if you want to get pie chart.(Options -> doughnut,bubble etc.)
                 data: chartdata
             });
         },

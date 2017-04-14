@@ -17,5 +17,5 @@ You can download chart.js [url](http://www.chartjs.org/) or refer the Documentat
 
 **For Linux/mac users**
 
-1. This is the path for localhost '/etc/apache2'.
+1.This is the path for localhost '/etc/apache2'.
 
